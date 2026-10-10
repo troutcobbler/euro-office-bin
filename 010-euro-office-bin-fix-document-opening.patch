@@ -1,0 +1,11 @@
+--- a/usr/share/applications/euro-office-euro-office.desktop
++++ b/usr/share/applications/euro-office-euro-office.desktop
+@@ -6,7 +6,7 @@ GenericName[ru]=Редактор док�
+ Comment=Edit office documents
+ Comment[ru]=Редактировать офисные документы
+ Type=Application
+-Exec=/usr/bin/euro-office-euro-office %U
++Exec=/usr/bin/euro-office-euro-office %F
+ Terminal=false
+ Icon=euro-office-euro-office
+ Keywords=Text;Document;OpenDocument Text;Microsoft Word;Microsoft Works;odt;doc;docx;rtf;
